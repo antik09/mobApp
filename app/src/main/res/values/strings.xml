@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="txt_delete">Delete</string>
+    <string name="txt_delete_text">Do you want to delete this city?</string>
+    <string name="txt_delete_btn">Delete</string>
+    <string name="txt_cancel_btn">Cancel</string>
+    <string name="enter_city">Enter city</string>
+    <string name="manage_cities">Manage cities</string>
+    <string name="no_location">User location not available!</string>
+    <string name="location_not_granted">We need your location to access your weather data!</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+</resources>
