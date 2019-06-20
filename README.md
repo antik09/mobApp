@@ -14,4 +14,4 @@ Link na Mock dizajn napravljen na https://ninjamock.com/:
    
 Link na Powerpoint prezentaciju:
 
-    Link na prezentacije: 
+    Link na prezentacije: https://github.com/antik09/mobApp/blob/master/WeatherApp.pptx
