@@ -6,8 +6,12 @@ Kratak opis projekta:
 
 Link na API na koji se spaja mobilna aplikacija:
 
-    Link na API: https://openweathermap.org/api
+    Link na API: https://openweathermap.org/api 
 
 Link na Mock dizajn napravljen na https://ninjamock.com/:
 
-    Link na Mock dizajn: 
+    Link na Mock dizajn: https://github.com/antik09/mobApp/blob/master/WeatherApp(1).pdf
+   
+Link Powerpoint prezentacija:
+
+    Link prezentacije: 
